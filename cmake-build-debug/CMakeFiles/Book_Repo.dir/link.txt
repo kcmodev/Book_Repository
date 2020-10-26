@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Book_Repo.dir/main.cpp.o CMakeFiles/Book_Repo.dir/roster.cpp.o CMakeFiles/Book_Repo.dir/student.cpp.o  -o Book_Repo 
